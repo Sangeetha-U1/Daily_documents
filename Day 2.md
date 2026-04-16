@@ -25,7 +25,7 @@ XAMPP is a local server package that includes Apache, MySQL, and PHP.
 1. Download WordPress
 2. Extract into:
    C:/xampp/htdocs/
-3. Rename folder : sangeeth-com
+3. Rename folder : sangeetha-com
 4. Start Apache and MySQL
 
 # Task 2: Create / Configure Features

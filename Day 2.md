@@ -36,7 +36,7 @@ XAMPP is a local server package that includes Apache, MySQL, and PHP.
 3. Create database: sangeetha-com
 
 ### Screenshot
-<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/88a5e28e-5e24-420e-b037-d9caddcd556d" />
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/ba664cb9-87b2-4c41-a05d-3d2b177aa23c" />
 
 ## Configure WordPress
 1. Open http://localhost/sangeetha-com
@@ -50,6 +50,8 @@ XAMPP is a local server package that includes Apache, MySQL, and PHP.
 
 ## WordPress Dashboard
 http://localhost/sangeetha-com/wp-admin
+## screenshot
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/88a5e28e-5e24-420e-b037-d9caddcd556d" />
 
 ## Customize Theme
 1. Go to Appearance → Themes

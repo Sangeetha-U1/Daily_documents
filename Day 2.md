@@ -18,7 +18,7 @@ XAMPP is a local server package that includes Apache, MySQL, and PHP.
 4. Install and open Control Panel
 
 ### Screenshot
-<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/843e8b02-cca1-49ae-a745-971e09f740b1" />
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/2b38711f-dec3-415a-b3a5-82e0ecb53b50" />
 
 
 ## Install WordPress

@@ -29,7 +29,7 @@
 <img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/2f38d7e7-7935-4e98-bc79-0eb7f162c6b6" />
 
 - **Permalinks**
-  - URL structure: `localhost/sangeetha-com`
+  - URL structure: http://localhost/sangeetha-com
   - Automatic slug generation
 
 - **Categories**
@@ -98,4 +98,5 @@
 4. Save or publish the post.
 5. Use the generated URL in the browser to access the post directly.
 6. Each post has a unique permalink to avoid conflicts.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/18e2f38a-a1cb-493d-839d-0cc841bff09e" />
 

@@ -1,128 +1,101 @@
-## 📘 CMS Documentation: Dashboard, Permalinks, Categories, Tags
+## Documentation of *Dashboard, Permalinks, Categories, and Tags**
 
-## Overview
 
-This document explains key CMS features: Dashboard, Permalinks, Categories, and Tags. These help in managing content, organizing data, and improving SEO.
+## Task 1: Implement Core Concepts
 
----
+- **Dashboard**
+  - Displays total posts, categories, tags and more.
+  - Shows recent activity
 
-## Dashboard
+- **Permalinks**
+  - The permenant clean URLs
+  - Unique slug generation for each post
 
-The dashboard is the main control panel of the system. It provides:
+- **Categories**
+  - Organizes content into structured groups.
+  - Supports hierarchical structure.
 
-- Overview of total posts, categories, and tags  
-- Quick access to content management  
-- Recent activity and updates  
-
-A well-designed dashboard improves usability and efficiency.
-
----
-
-## Permalinks
-
-Permalinks are permanent URLs for posts and pages.
-
-### Features:
-- Clean and readable URLs  
-- SEO-friendly structure  
-- Unique slug for each post  
-
-### Example:
-- `/blog/intro-to-ai`
+- **Tags**
+  - Allows multiple tags per post.
+  - Flexible content classification.
 
 ---
 
-## Categories
+##  Task 2: Create / Configure Features
 
-Categories organize content into broad topics.
+- **Dashboard**
+  - Statistics panel
+  - Quick action buttons
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/2f38d7e7-7935-4e98-bc79-0eb7f162c6b6" />
 
-### Features:
-- Each post belongs to one category  
-- Helps in structured navigation  
-- Can be hierarchical  
+- **Permalinks**
+  - URL structure: `localhost/sangeetha-com`
+  - Automatic slug generation
 
-### Example:
-- Technology  
-- Health  
-- Education  
+- **Categories**
+  - Add / Edit / Delete categories
+  - Assign category to posts
 
----
-
-## Tags
-
-Tags provide detailed labeling for posts.
-
-### Features:
-- Multiple tags per post  
-- Flexible classification  
-- Improves search and filtering  
-
-### Example:
-- JavaScript  
-- AI  
-- Fitness  
+- **Tags**
+  - Multi-tag support
+  - Tag storage and retrieval
 
 ---
 
-## Configuration
+## Task 3: Customize UI / Settings
 
-### Dashboard
-- Show statistics and recent posts  
-- Provide quick action buttons  
+- **Dashboard**
+  - Responsive layout
+  - Widget-based design
 
-### Permalinks
-- Define URL structure  
-- Ensure unique slugs  
+- **Permalinks**
+  - Editable URL field
+  - Live preview
 
-### Categories
-- Create and manage categories  
-- Assign during post creation  
+- **Categories**
+  - Dropdown selection in post form
 
-### Tags
-- Add multiple tags  
-- Maintain consistency  
+- **Tags**
+  - Autocomplete input field
 
 ---
 
-## UI Customization
+## Task 4: Debug & Optimization
 
-- Dashboard: widgets, themes, layout  
-- Permalinks: editable URLs, preview  
-- Categories: dropdown selection  
-- Tags: autocomplete input  
+- **Dashboard**
+  - Optimized performance using caching
 
----
+- **Permalinks**
+  - Prevent duplicate slugs
 
-## Debugging & Optimization
+- **Categories**
+  - Avoid duplicate entries
 
-- Optimize dashboard performance  
-- Avoid duplicate permalinks  
-- Prevent duplicate categories  
-- Normalize tags  
-- Use caching and indexing  
+- **Tags**
+  - Normalize tags (case consistency)
 
 ---
 
-## Demo Output
-
-### Dashboard
-- Total Posts: 120  
-- Categories: 10  
-- Tags: 45  
-
-### URLs
-- Post: `/blog/intro-to-ai`  
-- Category: `/category/technology`  
-- Tag: `/tag/javascript`  
-
----
-
-## Conclusion
-
-These features form the foundation of a CMS. Proper implementation ensures:
-
-- Better user experience  
-- Organized content  
-- Improved performance and SEO  
+## Task 5: Documentation & Demo Output
+###  Dashboard
+1. Open the admin panel of the CMS.
+2. Navigate to the Dashboard section.
+3. The dashboard automatically loads:
+   - Total posts count
+   - Recent activities
+   - System overview
+4. When a new post is created, the dashboard data updates automatically.
+5. Refresh or reload to view updated statistics if needed.
 
 ---
+
+###  Permalinks
+
+1. While creating a new post, enter the post title.
+2. The system automatically generates a URL slug from the title.
+   - Example: "Intro to blog" → `/localhost/sangeetha-com`
+3. You can manually edit the permalink if required.
+4. Save or publish the post.
+5. Use the generated URL in the browser to access the post directly.
+6. Each post has a unique permalink to avoid conflicts.
+

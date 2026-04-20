@@ -88,6 +88,9 @@
 5. Refresh or reload to view updated statistics if needed.
 
 ---
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/505aab82-2a35-4177-a30e-5c4b03c27dc0" />
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/4d52a63a-9225-4a9a-b2de-a1506a9096d0" />
+
 
 ###  Permalinks
 

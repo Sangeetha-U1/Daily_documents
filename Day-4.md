@@ -57,6 +57,7 @@ Using Media we can include images, videos, and files.
 - Organize media library
 
 ---
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/6dff3a6f-fa4e-46a7-956c-e6e79426cc57" />
 
 #  Task 3: Customize UI / Settings
 
@@ -99,7 +100,7 @@ Using Media we can include images, videos, and files.
 #  Task 5: Documentation + Demo Output
 
 ##  Demo Example
-<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/b720555e-2f27-4dc7-9888-4cf0a467dd41" />
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/fce26455-2946-4a3f-91e3-de2785c13634" />
 
 ### Sample Post
 - Title: *Environment*

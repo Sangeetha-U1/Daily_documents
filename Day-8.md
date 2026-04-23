@@ -1,40 +1,6 @@
-# 🎨 Theme Customization – Project Documentation
+#  Project Documentation
 
-## 📌 Overview
-This document describes the implementation of the **Theme Customization** feature in a personal portfolio website.
-
-The project includes multiple pages such as:
-- Home (Landing page with banner/slider)
-- About / About Me
-- Skills / Services
-- Environment Page
-- Contact Section
-
-The theme customization ensures a consistent visual design across all pages, including navigation bar, background styles, typography, and section layouts.
-
----
-
-## 🎯 Objectives
-- Maintain a consistent design across all pages  
-- Provide visually appealing UI sections (Home, About, Environment)  
-- Enable structured layout using reusable styles  
-- Ensure responsiveness and user-friendly navigation  
-
----
-
-## ⚙️ Assumptions & Setup
-- The project is built as a **portfolio website**
-- Multiple pages are connected via a navigation menu
-- UI styling is controlled through a centralized theme approach
-- The design includes:
-  - Header/Navbar
-  - Banner/Slider
-  - Content Sections
-  - Image + Text layouts
-
----
-
-## 1️⃣ Implement Core Concept: Theme Customization
+## STEP 1: Implement Core Concept: Theme Customization
 
 ### Description
 A consistent theme was applied across the website to maintain uniform design and branding.
@@ -55,7 +21,7 @@ A unified look and feel across the entire website.
 
 ---
 
-## 2️⃣ Create / Configure Feature
+## STEP-2: Create / Configure Feature
 
 ### Description
 Theme-related design elements were configured and applied globally.
@@ -79,7 +45,7 @@ A reusable and consistent theme configuration applied across all pages.
 
 ---
 
-## 3️⃣ Customize UI / Settings
+## STEP-3: Customize UI / Settings
 
 ### Description
 UI components were customized to improve visual appearance and usability.
@@ -108,7 +74,7 @@ Improved UI clarity and better user experience across all sections.
 
 ---
 
-## 4️⃣ Debug / Optimize Scenario
+## STEP-4: Debug / Optimize Scenario
 
 ### Issues Identified
 - Text alignment inconsistencies in some sections  
@@ -132,7 +98,7 @@ A cleaner, more consistent, and responsive UI.
 
 ---
 
-## 5️⃣ Documentation + Demo Output
+## STEP-5: Documentation + Demo Output
 
 ### How to Use
 1. Open the website (localhost project)  
@@ -142,45 +108,10 @@ A cleaner, more consistent, and responsive UI.
    - About Me
    - Environment  
 4. Observe consistent theme across pages  
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/08d67920-7f72-4045-98a9-8539a47b7ec8" />
+<img width="1366" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/41bd68c8-8dc2-44d4-854e-a0cd85f679ce" />
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/2e9f342e-bef5-4ee9-b7d9-7f3f761d3c9d" />
 
----
 
-## 🖼️ Demo Output (Project Screens)
 
-### Home Page (Banner Section)
-- Large background image  
-- Overlay text: **"Welcome to My website..."**  
-- Navigation menu on top  
 
-### About Page
-- Title: **About Me**  
-- Left: image  
-- Right: description text  
-
-### Environment Page
-- Title: **Environment**  
-- Left: descriptive content  
-- Right: image (nature view)  
-
----
-
-## ✅ Expected Results
-
-| Feature              | Result                                  |
-|---------------------|------------------------------------------|
-| Navigation Bar      | Consistent across all pages              |
-| Theme Layout        | Uniform design structure                 |
-| UI Sections         | Clean and readable                       |
-| Page Switching      | Smooth navigation                        |
-| Visual Design       | Professional and responsive              |
-
----
-
-## 🧾 Summary
-- Implemented a consistent theme across the portfolio  
-- Designed reusable UI components and layouts  
-- Customized sections like Home, About, and Environment  
-- Fixed layout and alignment issues  
-- Delivered a clean and user-friendly interface  
-
----

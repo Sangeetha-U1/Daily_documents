@@ -109,7 +109,8 @@ A cleaner, more consistent, and responsive UI.
    - Environment  
 4. Observe consistent theme across pages  
 <img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/08d67920-7f72-4045-98a9-8539a47b7ec8" />
-<img width="1366" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/41bd68c8-8dc2-44d4-854e-a0cd85f679ce" />
+<img width="1366" height="768" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/f6647cb9-8f8b-4c02-9b8e-8f81b1f65553" />
+
 <img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/2e9f342e-bef5-4ee9-b7d9-7f3f761d3c9d" />
 
 

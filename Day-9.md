@@ -88,8 +88,8 @@ Provide clear documentation and showcase results.
 - Fully designed Elementor webpage  
 - Responsive across devices  
 - Interactive UI elements  
-<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/5c118653-f9b1-4d16-a4a6-ec765d95eba7" />
-<img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/b3530c60-56e6-4f85-9838-b4de35b73b1a" />
+<img width="1366" height="768" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/1fd30be4-888a-4df3-ab9d-79bf0f667112" />
+
 
 ###  Suggested Demo Format
 - Desktop view screenshot  
